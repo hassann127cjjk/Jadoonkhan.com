@@ -1,0 +1,25 @@
+.text1{
+	font-size: 120px;
+	text-align: center;
+	cursor: default;
+	color: red;
+
+}
+.text2{
+	font-size: 80px;
+	text-align: center;
+	cursor: default;
+	color: blue;
+}
+.text{
+	font-size: 60px;
+	cursor: default;
+
+}
+
+.passage{
+	text-align: center;
+	font-size: 35px;
+	cursor: default;
+	color: green;
+}
